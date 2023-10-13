@@ -99,21 +99,21 @@ public class MainActivity extends AppCompatActivity {
     // метод заполнения словарей
     public static void dataInfo() {
         // добавление данных для русско-английского словаря
-        ruEn.put("я","i");
-        ruEn.put("ты","you");
-        ruEn.put("он","he");
-        ruEn.put("она","she");
-        ruEn.put("мы","we");
-        ruEn.put("они","they");
-        ruEn.put("оно","it");
+        ruEn.put("я","io");
+        ruEn.put("ты","tu");
+        ruEn.put("он","lui");
+        ruEn.put("она","lei");
+        ruEn.put("мы","noi");
+        ruEn.put("они","loro");
+        ruEn.put("оно","esso");
 
         // добавление данных для англо-русского словаря
-        enRu.put("i","я");
-        enRu.put("you","ты");
-        enRu.put("he","он");
-        enRu.put("she","она");
-        enRu.put("we","мы");
-        enRu.put("they","они");
-        enRu.put("it","оно");
+        enRu.put("io","я");
+        enRu.put("tu","ты");
+        enRu.put("lui","он");
+        enRu.put("lei","она");
+        enRu.put("noi","мы");
+        enRu.put("loro","они");
+        enRu.put("esso","оно");
     }
 }

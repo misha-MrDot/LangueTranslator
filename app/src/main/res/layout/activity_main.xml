@@ -26,7 +26,7 @@
             android:layout_marginTop="8dp"
             android:layout_marginEnd="8dp"
             android:layout_marginBottom="8dp"
-            android:text="Русский-Английский"
+            android:text="Русский-Итальянский"
             android:textColor="#0A4D83"
             android:textSize="14dp" />
 
@@ -38,7 +38,7 @@
             android:layout_marginTop="8dp"
             android:layout_marginEnd="21dp"
             android:layout_marginBottom="8dp"
-            android:text="Английский-Русский"
+            android:text="Итальянский-Русский"
             android:textColor="#0A4D83"
             android:textSize="14dp" />
     </RadioGroup>
