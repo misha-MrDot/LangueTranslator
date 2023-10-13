@@ -1,0 +1,2 @@
+# LangueTranslator
+For Synergy
