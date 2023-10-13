@@ -26,7 +26,7 @@
             android:layout_marginTop="8dp"
             android:layout_marginEnd="8dp"
             android:layout_marginBottom="8dp"
-            android:text="Русский-Итальянский"
+            android:text="Russian-Italian"
             android:textColor="#0A4D83"
             android:textSize="14dp" />
 
@@ -38,7 +38,7 @@
             android:layout_marginTop="8dp"
             android:layout_marginEnd="21dp"
             android:layout_marginBottom="8dp"
-            android:text="Итальянский-Русский"
+            android:text="Italian-Russian"
             android:textColor="#0A4D83"
             android:textSize="14dp" />
     </RadioGroup>
@@ -69,7 +69,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/radioAll"
         app:layout_constraintVertical_bias="0.006"
-        android:hint="Введите ваш текст"
+        android:hint="Enter your text"
         android:textSize="19dp"
         android:textColorHint="#C4CDD5"/>
 
@@ -78,7 +78,7 @@
         android:layout_width="357dp"
         android:layout_height="154dp"
         android:layout_marginBottom="24dp"
-        android:hint="Ваш перевод"
+        android:hint="Your translation"
         android:textColorHint="#C4CDD5"
         android:textSize="19dp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -92,7 +92,7 @@
         android:id="@+id/textView3"
         android:layout_width="359dp"
         android:layout_height="35dp"
-        android:text="Окно перевода:"
+        android:text="Translation window:"
         android:textColor="#0A4D83"
         android:textSize="21dp"
         app:layout_constraintBottom_toTopOf="@+id/textIn"
@@ -104,7 +104,7 @@
         android:id="@+id/textView4"
         android:layout_width="359dp"
         android:layout_height="35dp"
-        android:text="Перевод:"
+        android:text="Translation:"
         android:textColor="#0A4D83"
         android:textSize="21dp"
         app:layout_constraintBottom_toTopOf="@+id/textOut"
@@ -118,7 +118,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
-        android:text="Перевести"
+        android:text="Translate"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textIn" />
